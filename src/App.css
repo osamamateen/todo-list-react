@@ -10,8 +10,8 @@ body {
   font-family: "Quicksand", sans-serif;
   height: 100%;
 }
-@keyframes strikeitem {
+/* @keyframes strikeitem {
   to {
     width: calc(100% a+ 1rem);
   }
-}
+} */
